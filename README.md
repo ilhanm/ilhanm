@@ -8,4 +8,4 @@
 - 📫 Can Mail Me: ilhanmdev@gmail.com
 - 📝 I write sometimes: https://ilhanmertalan.medium.com
 - 🕹️ I'm generally online in Discord(contact me quickly): ilhan#0441
-- 🤖 Motto: "Hito wa nanika no gisei nashini, nanimo eru koto wa dekinai." Thanks to Alphonse Elric.
+
