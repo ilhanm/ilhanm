@@ -1,4 +1,4 @@
-### Hi folks
+### Hi, Ilhan here
 
 - 🌱 I’m currently improving my Backend Development & Microservices skills.
 - 📫 Can Mail Me: ilhanmdev@gmail.com
